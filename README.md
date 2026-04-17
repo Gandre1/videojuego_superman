@@ -68,7 +68,7 @@ Controla música de fondo y sonidos del juego.
 
 ## 📦 Descarga
 
-👉 Descarga el juego desde la carpeta Builds o Releases del repositorio
+https://github.com/Gandre1/videojuego_superman/releases/tag/1.0
 
 ---
 
