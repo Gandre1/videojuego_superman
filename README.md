@@ -66,6 +66,15 @@ Controla música de fondo y sonidos del juego.
 
 ---
 
+---
+
+## Capturas de Juego
+
+<p align="center">
+  <img src="capturas/captura1.png" width="600"/>
+</p>
+---
+
 ## Descarga
 
 https://github.com/Gandre1/videojuego_superman/releases/tag/1.0
