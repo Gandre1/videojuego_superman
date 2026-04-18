@@ -1,17 +1,17 @@
-# 🎮 Superman vs Nubes
+# Superman vs Nubes
 
 Juego hecho en Unity donde controlas un personaje que vuela mientras esquivas nubes, sobrevives y consigues la mayor distancia posible.
 
 ---
 
-## 🕹️ Controles
+## Controles
 
 - W A S D → Mover el personaje
 - ESC → Pausar / Reanudar
 
 ---
 
-## 🎯 Mecánicas del juego
+## Mecánicas del juego
 
 - Sistema de vida (3 corazones)
 - Daño al tocar nubes
@@ -27,19 +27,19 @@ Juego hecho en Unity donde controlas un personaje que vuela mientras esquivas nu
   - SFX de menú y golpes
 ---
 
-## 🧠 Sistemas principales (Unity)
+## Sistemas principales (Unity)
 
-### 🎧 AudioManager
+### AudioManager
 Controla música de fondo y sonidos del juego.
 
-### 📷 CameraFollow
+### CameraFollow
 - Movimiento suave siguiendo al jugador
 - Modo intro con cámara ascendiendo
 
-### ☁️ SkyScroller
+### SkyScroller
 - Fondo infinito con repetición de sprites
 
-### 🎮 GameManager
+### GameManager
 - Control de estados:
   - Idle
   - Intro
@@ -47,32 +47,32 @@ Controla música de fondo y sonidos del juego.
 - Activa player, cámara y spawner
 - Controla inicio de partida
 
-### 👾 Player
+### Player
 - Movimiento libre dentro de la pantalla
 - Sistema de vida + invulnerabilidad
 - Colisiones con nubes
 
-### 🧾 UI System
+### UI System
 - Corazones de vida
 - Score en tiempo real
 - Game Over con récord guardado
 
 ---
 
-## 🏆 Sistema de puntuación
+## Sistema de puntuación
 
 - El score se basa en metros recorridos
 - Se guarda el mejor récord usando PlayerPrefs
 
 ---
 
-## 📦 Descarga
+## Descarga
 
 https://github.com/Gandre1/videojuego_superman/releases/tag/1.0
 
 ---
 
-## 🚀 Hecho con
+## Hecho con
 
 - Unity Engine
 - C#
