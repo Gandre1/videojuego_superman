@@ -71,7 +71,7 @@ Controla música de fondo y sonidos del juego.
 ## Capturas de Juego
 
 <p align="center">
-  <img src="capturas/captura1.png" width="600"/>
+  <img src="Capturas/Captura1.png" width="600"/>
 </p>
 ---
 
